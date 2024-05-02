@@ -1,0 +1,19 @@
+body{background-color: skyblue;color:black;}
+h1{background-color: coral;padding: 15px; margin: 4px;}
+h2{background-color: coral;padding: 15px; margin: 4px;}
+p{background-color:#f0e10c;padding: 15px;margin: 4px;}
+p{padding:  15px;font-size: 20px;}
+img{background-color: #123db3;padding: 15px;margin: 4px;}
+iframe{background-color: #e8edfa;padding: 15px;margin: 4px;}
+img{display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;}
+h1{display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;}
+iframe{display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;}
